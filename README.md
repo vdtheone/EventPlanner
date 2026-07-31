@@ -39,3 +39,33 @@
 - **Version Control:** Git, GitHub
 
 ## Installation
+
+---
+
+## 📌 Repository Info
+
+| Field | Details |
+|---|---|
+| **GitHub** | [vdtheone/EventPlanner](https://github.com/vdtheone/EventPlanner) |
+| **Local Path** | `/home/neosoft/vishal/Django/EventPlanner` |
+| **Main Branch** | `main` |
+| **Tech Stack** | Django, DRF, PostgreSQL |
+| **Migrated** | 2026-07-31 — moved from VishalNeosoft24 → vdtheone |
+
+### 🔄 Git Remote
+```bash
+git remote set-url origin git@github.com:vdtheone/EventPlanner.git
+```
+
+### 📋 Quick Commands
+```bash
+# Check status
+git status
+
+# Push changes
+git push origin main
+
+# Pull latest
+git pull origin main
+```
+
